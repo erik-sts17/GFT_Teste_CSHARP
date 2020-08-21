@@ -1,0 +1,11 @@
+C:\Users\Erik\Desktop\TesteGFT\POO_ClassePessoa\POO_ClassePessoa\bin\Debug\netcoreapp3.1\POO_ClassePessoa.exe
+C:\Users\Erik\Desktop\TesteGFT\POO_ClassePessoa\POO_ClassePessoa\bin\Debug\netcoreapp3.1\POO_ClassePessoa.deps.json
+C:\Users\Erik\Desktop\TesteGFT\POO_ClassePessoa\POO_ClassePessoa\bin\Debug\netcoreapp3.1\POO_ClassePessoa.runtimeconfig.json
+C:\Users\Erik\Desktop\TesteGFT\POO_ClassePessoa\POO_ClassePessoa\bin\Debug\netcoreapp3.1\POO_ClassePessoa.runtimeconfig.dev.json
+C:\Users\Erik\Desktop\TesteGFT\POO_ClassePessoa\POO_ClassePessoa\bin\Debug\netcoreapp3.1\POO_ClassePessoa.dll
+C:\Users\Erik\Desktop\TesteGFT\POO_ClassePessoa\POO_ClassePessoa\bin\Debug\netcoreapp3.1\POO_ClassePessoa.pdb
+C:\Users\Erik\Desktop\TesteGFT\POO_ClassePessoa\POO_ClassePessoa\obj\Debug\netcoreapp3.1\POO_ClassePessoa.csprojAssemblyReference.cache
+C:\Users\Erik\Desktop\TesteGFT\POO_ClassePessoa\POO_ClassePessoa\obj\Debug\netcoreapp3.1\POO_ClassePessoa.AssemblyInfoInputs.cache
+C:\Users\Erik\Desktop\TesteGFT\POO_ClassePessoa\POO_ClassePessoa\obj\Debug\netcoreapp3.1\POO_ClassePessoa.AssemblyInfo.cs
+C:\Users\Erik\Desktop\TesteGFT\POO_ClassePessoa\POO_ClassePessoa\obj\Debug\netcoreapp3.1\POO_ClassePessoa.dll
+C:\Users\Erik\Desktop\TesteGFT\POO_ClassePessoa\POO_ClassePessoa\obj\Debug\netcoreapp3.1\POO_ClassePessoa.pdb
